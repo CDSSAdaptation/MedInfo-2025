@@ -34,6 +34,7 @@ Acknowledgements: This work is part of the Digital Health Cooperative Research C
 
 
 References
+
 [1]  Sutton, R.T., et al., An overview of clinical decision support systems: benefits, risks, and strategies for success. NPJ digital medicine,2020. 3(1): p. 17.
 
 [2]  Fan, D.-P., et al., Concealed object detection. IEEE transactions on pattern analysis and machine intelligence, 2021. 44(10): p. 6024-6042.
