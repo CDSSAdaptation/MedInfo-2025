@@ -1,6 +1,6 @@
 #MedInfo-2025
 
-#**Clinical decision support systems redeployment – levels of matching between variables in different ecosystems**
+**Clinical decision support systems redeployment – levels of matching between variables in different ecosystems**
 
 Gourav GUPTA,  Jan STANEK, Wolfgang MAYER, and Georg GROSSMANN
 
